@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 - Formulas
 - Conversion to PDF
 
+## [2.0.1] 
+
+- make dependencies less restrictive so this package is more compatible
+
 ## [2.0.0-null-safety-4] - 2022-02-15
 ### Improved
 - Fix saving XLXS bug on archive 3.2.0

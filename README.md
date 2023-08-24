@@ -1,4 +1,4 @@
-# Excel
+# Excel 
   
   <a href="https://flutter.io">  
     <img src="https://img.shields.io/badge/Platform-Flutter-yellow.svg"  
@@ -34,6 +34,10 @@
 ### [Excel](https://www.pub.dev/packages/excel) is a flutter and dart library for reading, creating and updating excel-sheets for XLSX files.
 
 #### This library is [MIT](https://github.com/justkawal/excel/blob/40b8b1ed8c3c213d8911784ddd40bf97841977a1/LICENSE#L1) licensed So, it's free to use anytime, anywhere without any consent, because we believe in Open Source work.
+
+# fork from https://github.com/justkawal/excel
+
+* make dependencies less restrictive so this package is more compatible
 
 # Lets Get Started
 
